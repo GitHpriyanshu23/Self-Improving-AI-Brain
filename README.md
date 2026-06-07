@@ -2,6 +2,8 @@
 
 ![Hermes-Agent + Obsidian Header](assets/header.png)
 
+![Self-Improving AI Brain Logo](assets/logo.jpg)
+
 A complete system that connects Obsidian (permanent knowledge) with Hermes Agent (execution + automation) to create a self-improving second brain that thinks, remembers, and acts.
 
 ## Why this exists
