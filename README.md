@@ -1,4 +1,4 @@
-# Second Brain Agent
+# Agentic AI Memory
 
 ![Hermes-Agent + Obsidian Header](assets/header.png)
 
