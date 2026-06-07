@@ -1,4 +1,4 @@
-# Self-Improving AI Brain
+# Second Brain Agent
 
 ![Hermes-Agent + Obsidian Header](assets/header.png)
 
